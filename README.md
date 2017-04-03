@@ -4,10 +4,10 @@ The script saves 20 random courses descriptions from Coursera.org to Excel-file.
 
 # How to use
 
-virtualenv -p python3 env
-source env/bin/activate
-pip install -r requirements.txt
-python coursera.py
+1. virtualenv -p python3 env
+2. source env/bin/activate
+3. pip install -r requirements.txt
+4. python coursera.py
 
 # Project Goals
 
